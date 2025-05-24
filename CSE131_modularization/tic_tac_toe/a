@@ -1,0 +1,13 @@
+{
+    "board": [
+        "X",
+        "O",
+        "X",
+        "BLANK",
+        "BLANK",
+        "BLANK",
+        "BLANK",
+        "BLANK",
+        "BLANK"
+    ]
+}

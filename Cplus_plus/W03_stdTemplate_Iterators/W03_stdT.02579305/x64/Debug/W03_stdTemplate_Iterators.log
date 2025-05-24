@@ -1,0 +1,3 @@
+﻿  program.cpp
+C:\Users\Ervin\OneDrive\Documents\Repos\Cplus_plus\W03_stdTemplate_Iterators\program.cpp(105,1): warning C4715: 'get_user_response': not all control paths return a value
+  W03_stdTemplate_Iterators.vcxproj -> C:\Users\Ervin\OneDrive\Documents\Repos\Cplus_plus\W03_stdTemplate_Iterators\x64\Debug\W03_stdTemplate_Iterators.exe
